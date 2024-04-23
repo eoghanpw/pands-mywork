@@ -1,6 +1,6 @@
 import datetime as dt
 
-from timesheetentry import *
+from timesheetentry import Timesheetentry
 
 
 class Employee:
